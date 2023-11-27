@@ -4,7 +4,7 @@ import com.symbosis.model.Logins;
 import com.symbosis.repository.LoginRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
+//Thid is login service
 @Service
 public class LoginServiceImplementation implements LoginServiceInterface{
     @Autowired
